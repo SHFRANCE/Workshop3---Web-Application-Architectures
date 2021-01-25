@@ -1,0 +1,29 @@
+h1
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+.box
+{
+	display: block;
+	padding: 30px 15px 15px 15px;
+	width: 400px;
+	box-sizing: border-box;
+	margin: 20px auto;
+	border: 3px solid purple;
+	background-color: pink;
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+}
+
+span
+{
+	background-color: yellow;
+}
+
+.link
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
