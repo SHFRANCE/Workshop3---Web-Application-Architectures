@@ -11,8 +11,8 @@ h1
 	width: 400px;
 	box-sizing: border-box;
 	margin: 20px auto;
-	border: 3px solid purple;
-	background-color: pink;
+	border: 3px solid #ea79b1;
+	background-color: #fff0f5;
 	text-align: left;
 	font-family: Helvetica, sans-serif;
 }
